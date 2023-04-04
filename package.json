@@ -1,0 +1,19 @@
+{
+  "name": "vacancy-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biloholovskyi/vacancy-base.git"
+  },
+  "author": "Biloholovskyi Danylo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biloholovskyi/vacancy-base/issues"
+  },
+  "homepage": "https://github.com/biloholovskyi/vacancy-base#readme"
+}
