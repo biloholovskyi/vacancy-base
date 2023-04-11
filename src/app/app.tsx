@@ -1,3 +1,5 @@
+import {VacanciesPage} from "../pages/vacanciesPage";
+
 export const App = () => {
-  return <div>Hello</div>
+  return <VacanciesPage/>
 }

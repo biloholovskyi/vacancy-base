@@ -1,0 +1,27 @@
+.wrapper {
+  border: 1px solid #333;
+  max-width: 800px;
+  margin: 0 auto 30px auto;
+  padding: 15px;
+  text-align: center;
+}
+
+.form {
+  margin-top: 15px;
+}
+
+.input {
+  padding: 10px 8px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.input:last-child {
+  margin-bottom: 0;
+}
+
+.button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+}
