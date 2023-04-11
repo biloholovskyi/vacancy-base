@@ -50,7 +50,6 @@ export const VacancyCard = memo(function (props: Vacancy) {
       <div className={cls.date}>{date}</div>
       <div className={cls.company}>{company}</div>
       <div className={cls.comment}>{comment}</div>
-      <div className={cls.status}>{status}</div>
     </a>
   )
 })

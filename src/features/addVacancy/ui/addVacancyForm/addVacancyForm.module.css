@@ -1,6 +1,6 @@
 .wrapper {
   border: 1px solid #333;
-  max-width: 800px;
+  width: 100%;
   margin: 0 auto 30px auto;
   padding: 15px;
   text-align: center;
@@ -8,16 +8,24 @@
 
 .form {
   margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 16px;
 }
 
 .input {
   padding: 10px 8px;
   margin-bottom: 10px;
-  width: 100%;
+  width: calc(50% - 16px);
 }
 
 .input:last-child {
   margin-bottom: 0;
+}
+
+.inputLink {
+  width: 100%;
 }
 
 .button {

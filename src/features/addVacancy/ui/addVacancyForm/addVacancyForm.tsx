@@ -18,8 +18,7 @@ export const AddVacancyForm = memo(function () {
       date: target.date.value,
       title: target.titlevalue.value,
       link: target.link.value,
-      status: target.status.value || 'none',
-      comment: target.comment.value
+      status: 'none',
     }
 
     addNewVacancy(body)
@@ -36,9 +35,7 @@ export const AddVacancyForm = memo(function () {
         <input type="text" name={'titlevalue'} placeholder={'title'} className={cls.input}/>
         <input type="text" name={'price'} placeholder={'price'} className={cls.input}/>
         <input type="text" name={'date'} placeholder={'date'} className={cls.input}/>
-        <input type="text" name={'link'} placeholder={'link'} className={cls.input}/>
-        <input type="text" name={'status'} placeholder={'status'} className={cls.input} defaultValue={'none'}/>
-        <input type="text" name={'comment'} placeholder={'comment'} className={cls.input}/>
+        <input type="text" name={'link'} placeholder={'link'} className={`${cls.input} ${cls.inputLink}`}/>
         <button type={'submit'} className={cls.button}>Add new</button>
       </form>
     </div>
