@@ -415,12 +415,12 @@
       "id": 46
     },
     {
-      "company": "MacPaw Inc.",
-      "date": "07.04.2023",
-      "title": "Staff Software Engineer (Front-End) for Setapp",
       "link": "https://macpaw.com/careers/staff-front-end-setapp?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble#application",
-      "status": "none",
+      "title": "Staff Software Engineer (Front-End) for Setapp",
+      "company": "MacPaw Inc.",
       "comment": "",
+      "status": "failed",
+      "date": "07.04.2023",
       "id": 47
     },
     {
@@ -451,12 +451,12 @@
       "id": 50
     },
     {
-      "company": "Starladder",
-      "date": "08.04.2023",
-      "title": "Middle Front-End Developer",
       "link": "https://djinni.co/jobs/543227-middle-front-end-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
-      "status": "none",
+      "title": "Middle Front-End Developer",
+      "company": "Starladder",
       "comment": "",
+      "status": "failed",
+      "date": "08.04.2023",
       "id": 51
     },
     {
@@ -595,30 +595,30 @@
       "id": 66
     },
     {
-      "company": "SupportYourApp",
-      "date": "11.04.2023",
-      "title": "Middle Front-End Developer (SF)",
       "link": "https://apply.workable.com/supportyourapp/j/ACE488D350/",
-      "status": "none",
+      "title": "Middle Front-End Developer (SF)",
+      "company": "SupportYourApp",
       "comment": "",
+      "status": "failed",
+      "date": "11.04.2023",
       "id": 67
     },
     {
-      "company": "FoxmindEd",
-      "date": "11.04.2023",
-      "title": " React Developer",
       "link": "https://djinni.co/jobs/160672-react-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
-      "status": "none",
+      "title": " React Developer",
+      "company": "FoxmindEd",
       "comment": "",
+      "status": "interview",
+      "date": "11.04.2023",
       "id": 68
     },
     {
-      "company": "Kreatif Klub",
-      "date": "11.04.2023",
-      "title": "Frontend Developer React / Next.js / GSAP / GraphQL",
       "link": "https://djinni.co/jobs/543837-frontend-developer-react-next-js-gsap-graphql/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
-      "status": "none",
+      "title": "Frontend Developer React / Next.js / GSAP / GraphQL",
+      "company": "Kreatif Klub",
       "comment": "",
+      "status": "failed",
+      "date": "11.04.2023",
       "id": 69
     },
     {
@@ -638,6 +638,294 @@
       "status": "none",
       "date": "11.04.2023",
       "id": 71
+    },
+    {
+      "company": "Brightech",
+      "date": "12.04.2023",
+      "title": "Middle Front End developer",
+      "link": "https://rabota.ua/ua/company6363243/vacancy9468951",
+      "status": "none",
+      "id": 72
+    },
+    {
+      "company": "Домінос Піца Юкрейн, ТОВ",
+      "date": "12.04.2023",
+      "title": "Front-End Developer",
+      "link": "https://rabota.ua/ua/company886356/vacancy9468105",
+      "status": "none",
+      "id": 73
+    },
+    {
+      "company": "Englishdom",
+      "date": "12.04.2023",
+      "title": "Frontend Developer",
+      "link": "https://rabota.ua/ua/company858779/vacancy9467521",
+      "status": "none",
+      "id": 74
+    },
+    {
+      "company": "Інфоком ЛТД, ТОВ",
+      "date": "12.04.2023",
+      "title": "Front-end програміст",
+      "link": "https://www.work.ua/jobs/3958332/",
+      "status": "none",
+      "id": 75
+    },
+    {
+      "company": "SeaRates",
+      "date": "12.04.2023",
+      "title": "Front-end Engineer ( OFFICE later, now HYBRID job )",
+      "link": "https://djinni.co/jobs/531123-front-end-engineer-office-later-now-hybrid-jo/",
+      "status": "none",
+      "id": 76
+    },
+    {
+      "company": "Unilimes Group",
+      "date": "12.04.2023",
+      "title": "Senior Front-End Developer",
+      "link": "https://djinni.co/jobs/544358-senior-front-end-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 77
+    },
+    {
+      "link": "https://djinni.co/jobs/544576-senior-frontend-react-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "title": "Senior Frontend React Developer",
+      "company": "UpperCode",
+      "status": "failed",
+      "date": "12.04.2023",
+      "id": 78
+    },
+    {
+      "company": "Brainstack_",
+      "date": "13.04.2023",
+      "title": "Front End developer (Marketing Dev. Team)",
+      "link": "https://jobs.dou.ua/companies/brainstack/vacancies/233573/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble&from=jooble#apply",
+      "status": "none",
+      "id": 79
+    },
+    {
+      "company": "Everymatrix",
+      "date": "13.04.2023",
+      "title": "Middle JavaScript Developer",
+      "link": "https://everymatrix.teamtailor.com/jobs/2656604-middle-javascript-developer?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 80
+    },
+    {
+      "company": "airSlate",
+      "date": "13.04.2023",
+      "title": "Middle Front-end Developer",
+      "link": "https://ua.jooble.org/desc/4021237529770873465?ckey=react&rgn=-1&pos=51&elckey=4922133209559715979&p=1&sid=4650678889127487835&jobAge=15&relb=100&brelb=100&bscr=11940.528013309535&scr=11940.528013309535&searchTestGroup=1_2_1&iid=6066233260251759879",
+      "status": "none",
+      "id": 81
+    },
+    {
+      "company": "HappyuserS",
+      "date": "14.04.2023",
+      "title": "JS-программист",
+      "link": "https://rabota.ua/ua/company3177567/vacancy9470954",
+      "status": "none",
+      "id": 82
+    },
+    {
+      "company": "Kostiushkin Engineering",
+      "date": "14.04.2023",
+      "title": "Senior front-end engineer (Typescript/React)",
+      "link": "https://www.work.ua/jobs/4913718/",
+      "status": "none",
+      "id": 83
+    },
+    {
+      "company": "BotsCrew",
+      "date": "14.04.2023",
+      "title": "Middle React Developer",
+      "link": "https://djinni.co/jobs/545667-middle-react-developer/",
+      "status": "none",
+      "id": 84
+    },
+    {
+      "company": "Playtika",
+      "date": "14.04.2023",
+      "title": "Senior JavaScript (TypeScript) Developer (Technologies)",
+      "link": "https://ua.jooble.org/desc/7822309916566138452?ckey=react&rgn=-1&pos=37&elckey=5708579359880152289&p=1&sid=4515593747460550665&jobAge=13&relb=115&brelb=115&bscr=12150.281799499178&scr=12150.281799499178&searchTestGroup=1_2_1&iid=5082340945182217622",
+      "status": "none",
+      "id": 85
+    },
+    {
+      "company": "Gravity",
+      "date": "15.04.2023",
+      "title": "Front-end розробник",
+      "link": "https://rabota.ua/ua/company6494831/vacancy9471956",
+      "status": "none",
+      "id": 86
+    },
+    {
+      "company": "Struktura",
+      "date": "15.04.2023",
+      "title": "Front-end Developer (middle)",
+      "link": "https://www.work.ua/jobs/4656420/",
+      "status": "none",
+      "id": 87
+    },
+    {
+      "link": "https://djinni.co/jobs/545848-middle-front-end-developer-react/",
+      "title": " Middle Front-end developer React",
+      "company": "PTA Events",
+      "status": "failed",
+      "date": "15.04.2023",
+      "id": 88
+    },
+    {
+      "link": "https://djinni.co/jobs/545981-middle-front-end-developer-react-/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "title": " Middle Front End Developer (React)",
+      "company": "Askep",
+      "status": "failed",
+      "date": "15.04.2023",
+      "id": 89
+    },
+    {
+      "company": "WorkTime",
+      "date": "15.04.2023",
+      "title": "Middle Front-end Web Developer",
+      "link": "https://djinni.co/jobs/545812-middle-front-end-web-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 90
+    },
+    {
+      "company": "COR-Medical",
+      "date": "15.04.2023",
+      "title": "Front-End WEB Developer",
+      "link": "https://djinni.co/jobs/545864-front-end-web-developer/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 91
+    },
+    {
+      "company": "Genesis",
+      "date": "15.04.2023",
+      "title": "Middle+ Frontend Developer",
+      "link": "https://gen-tech.breezy.hr/p/338317e007e7-middle-frontend-developer?source=jooble",
+      "status": "none",
+      "id": 92
+    },
+    {
+      "company": "SD Solutions",
+      "date": "15.04.2023",
+      "title": "JobTestPrep | React Frontend Software Engineer with Backend Experience",
+      "link": "https://sd-solutions.breezy.hr/p/9696e771fee901-jobtestprep-react-frontend-software-engineer-with-backend-experience?source=jooble",
+      "status": "none",
+      "id": 93
+    },
+    {
+      "company": "SFox",
+      "date": "15.04.2023",
+      "title": "Senior Frontend Developer to join Swedish project",
+      "link": "https://jobs.dou.ua/companies/sfox/vacancies/233308/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble&from=jooble#apply",
+      "status": "none",
+      "id": 94
+    },
+    {
+      "company": "PlayTech",
+      "date": "15.04.2023",
+      "title": "Front End Developer",
+      "link": "https://jobs.dou.ua/companies/playtech/vacancies/232863/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble&from=jooble#apply",
+      "status": "none",
+      "id": 95
+    },
+    {
+      "company": "Eldorado.ua",
+      "date": "15.04.2023",
+      "title": "Senior front-end developer",
+      "link": "https://jobs.dou.ua/companies/eldorado/vacancies/221160/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble&from=jooble#apply",
+      "status": "none",
+      "id": 96
+    },
+    {
+      "company": "Newxel",
+      "date": "18.04.2023",
+      "title": "Senior Frontend Developer (React)",
+      "link": "https://jobs.dou.ua/companies/newxel/vacancies/208252/",
+      "status": "none",
+      "id": 97
+    },
+    {
+      "company": "Malevich",
+      "date": "18.04.2023",
+      "title": "Frontend-developer (React. js) ",
+      "link": "https://djinni.co/jobs/546271-frontend-developer-react-js-/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 98
+    },
+    {
+      "company": "Крюк І.І., ФОП",
+      "date": "18.04.2023",
+      "title": "Front-end розробник (React)",
+      "link": "https://www.work.ua/jobs/5118989/",
+      "status": "none",
+      "id": 99
+    },
+    {
+      "link": "https://jobs.dou.ua/companies/softconstruct-ukraine/vacancies/232273/",
+      "title": "Senior React Engineer (FastEx)",
+      "company": "SoftConstruct Ukraine",
+      "status": "interview",
+      "date": "19.04.2023",
+      "id": 100
+    },
+    {
+      "link": "https://djinni.co/jobs/328895-front-end-developer-react-/",
+      "title": "Front-End Developer (React)",
+      "company": "DevelopsToday",
+      "status": "failed",
+      "date": "19.04.2023",
+      "id": 101
+    },
+    {
+      "company": "Moohii",
+      "date": "19.04.2023",
+      "title": "Strong Middle / Senior Frontend developer (React.js), ДіЯ для Міндовкілля",
+      "link": "https://djinni.co/jobs/450945-strong-middle-senior-frontend-developer-react/",
+      "status": "none",
+      "id": 102
+    },
+    {
+      "company": "AUTODOC",
+      "date": "19.04.2023",
+      "title": "Front-End Engineer",
+      "link": "https://djinni.co/jobs/520515-front-end-engineer/",
+      "status": "none",
+      "id": 103
+    },
+    {
+      "company": "AIMAP",
+      "date": "19.04.2023",
+      "title": "React.js Developer",
+      "link": "https://djinni.co/jobs/546561-react-js-developer/",
+      "status": "none",
+      "id": 104
+    },
+    {
+      "company": "JEVERA",
+      "date": "19.04.2023",
+      "title": "Middle Front-end розробник (React)",
+      "link": "https://djinni.co/jobs/546897-middle-front-end-rozrobnik-react-/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 105
+    },
+    {
+      "company": "Boosta",
+      "date": "19.04.2023",
+      "title": "Middle Front-end Developer (Vue.js + React)",
+      "link": "https://djinni.co/jobs/546731-middle-front-end-developer-vue-js-react-/?utm_source=jooble&utm_medium=cpc&utm_campaign=jooble",
+      "status": "none",
+      "id": 106
+    },
+    {
+      "company": "Innovecs",
+      "date": "19.04.2023",
+      "title": "Lead Software Engineer (React)",
+      "link": "https://ua.jooble.org/desc/-7092614047601905208?ckey=frontend&rgn=-1&pos=84&elckey=3817278286443472355&p=1&sid=2155268350788485827&jobAge=37&relb=100&brelb=100&bscr=11143.294516600798&scr=11143.294516600798&searchTestGroup=1_941_2&iid=2290433165094149596",
+      "status": "none",
+      "id": 107
     }
   ]
 }
